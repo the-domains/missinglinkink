@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Missinglinkink]]></title>
+        <description><![CDATA[Missinglinkink]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 14:23:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Already Know How This Will End]]></title>
+            <description><![CDATA[<article><h1>You Already Know How This Will End</h1><p>I've been staring at this space to type out my post for a good 3-4 hours. I'm not sure what to write... or how to write it, I just know that I feel I have to say something to fill the silence... and maybe to help understand it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1a06c2634c815577237d378f69e3c2b33a562b9.jpg"></article>]]></description>
+            <link>undefinedyou-already-know-how-this-will-end/index.html</link>
+            <guid isPermaLink="false">082d95fd-be3a-4490-9255-aa5bf53f8935</guid>
+            <pubDate>Wed, 23 Dec 2015 14:22:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
